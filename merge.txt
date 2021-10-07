@@ -1,1 +1,2 @@
 Different content to merge with the file
+The content to appended at the end of the file
