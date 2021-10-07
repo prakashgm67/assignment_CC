@@ -1,4 +1,10 @@
 Different content to merge with the file
 The content to appended at the end of the file
 Total differnet content to merge later for 2nd time in the branch feature
+<<<<<<< HEAD
 Total differnet content to merge later for 2=3nd time in the branch feature
+=======
+Total differnet content to merge later for 2nd time in the branch feature
+>>>>>>> feature
+Total different content to merger later 2=3nd time
+Total differnet content to merge later for 2nd time
